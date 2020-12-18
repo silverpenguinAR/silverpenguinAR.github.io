@@ -9,11 +9,11 @@ Todavía no está bien definida esa parte. Voy a ir subiendo material, si hay al
 
 ## Carreras de grado
 
-- [INGENIERÍA CIVIL](ing-civil)
-- [INGENIERÍA ELÉCTRICA](ing-electronica)
-- [INGENIERÍA ELECTRÓNICA](ing-electronica)
-- [INGENIERÍA INDUSTRIAL](ing-industrial)
-- [INGENIERÍA MECÁNICA](ing-mecanica)
-- [INGENIERÍA METALÚRGICA](ing-metalurgica)
-- [INGENIERÍA QUÍMICA](ing-quimica)
-- [INGENIERÍA EN SISTEMAS DE INFORMACIÓN](ing-sist)
+- [INGENIERÍA CIVIL](ing-civil.md)
+- [INGENIERÍA ELÉCTRICA](ing-electronica.md)
+- [INGENIERÍA ELECTRÓNICA](ing-electronica.md)
+- [INGENIERÍA INDUSTRIAL](ing-industrial.md)
+- [INGENIERÍA MECÁNICA](ing-mecanica.md)
+- [INGENIERÍA METALÚRGICA](ing-metalurgica.md)
+- [INGENIERÍA QUÍMICA](ing-quimica.md)
+- [INGENIERÍA EN SISTEMAS DE INFORMACIÓN](ing-sist.md)
