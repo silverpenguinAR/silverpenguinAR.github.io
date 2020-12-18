@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Resúmenes para diferentes materias de la UTN (frc only?)
 
-You can use the [editor on GitHub](https://github.com/silverpenguinAR/silverpenguinAR.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+¿Por qué surge esto? Luego de un año (2020) que dejó en evidencia que lo virtual llegó para quedarse, este lugar espera ser un pequeño aporte para que todes les alumnes puedan encontrar de manera rápida y sencilla material para las diferentes materias.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### ¿Cómo contribuir?
+Todavía no está bien definida esa parte. Voy a ir subiendo material, si hay algo que no está y lo tienen para compartir pueden generar un issues.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Carreras de grado
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/silverpenguinAR/silverpenguinAR.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [INGENIERÍA CIVIL](ing-civil)
+- [INGENIERÍA ELÉCTRICA](ing-electronica)
+- [INGENIERÍA ELECTRÓNICA](ing-electronica)
+- [INGENIERÍA INDUSTRIAL](ing-industrial)
+- [INGENIERÍA MECÁNICA](ing-mecanica)
+- [INGENIERÍA METALÚRGICA](ing-metalurgica)
+- [INGENIERÍA QUÍMICA](ing-quimica)
+- [INGENIERÍA EN SISTEMAS DE INFORMACIÓN](ing-sist)
