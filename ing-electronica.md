@@ -34,4 +34,26 @@
   - Electrónica Aplicada II
   - Seguridad, Higiene y Medio Ambiente
 ## Quinto año
+  - Técnicas Digitales III
+  - Medidas Electrónicas II
+  - Sistemas de Control
+  - Electrónica Aplicada III
+  - Tecnología Electrónica
+  - Electrónica de Potencia
+  - Organización Industrial
+  - Practica Profesional Supervisada (El plan contempla ademas de la realizacion de una actividad de Practica Profesional Supevisada en este nivel)
 ## Sexto año
+  - Economía
+  - Proyecto final
+  - Electivas de especialidad
+    - Software en tiempo real
+    - Equipos de microondas
+    - Control de procesos
+    - Sistemas de comunicaciones II
+    - Sistemas de comunicaciones III
+    - Sistemas de Telecomunicaciones
+    - Técnicas Digitales IV
+    - Sistemas de televisión
+    - Bioelectrónica
+    - Fundamentos de Acústica y Electroacústica
+    - Vision por computadora
