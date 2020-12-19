@@ -26,5 +26,12 @@
   - Medios de Enlace
   - Ingles II
 ## Cuarto año
+  - Técnicas Digitales II
+  - Medidas Electrónicas I
+  - Teoría de Circuitos II
+  - Máquinas e Inst. Eléctricas
+  - Sistemas de Comunicaciones
+  - Electrónica Aplicada II
+  - Seguridad, Higiene y Medio Ambiente
 ## Quinto año
 ## Sexto año
