@@ -2,8 +2,9 @@
 
 ¿Por qué surge esto? Luego de un año (2020) que dejó en evidencia que lo virtual llegó para quedarse, este lugar espera ser un pequeño aporte para que todes les alumnes puedan encontrar de manera rápida y sencilla material para las diferentes materias.
 
+
 ### ¿Cómo contribuir?
-Todavía no está bien definida esa parte. Voy a ir subiendo material, si hay algo que no está y lo tienen para compartir pueden generar un issues.
+Todavía no está bien definida esa parte. Voy a ir subiendo material, si hay algo que no está y lo tienen para compartir pueden generar un [issue](https://github.com/silverpenguinAR/silverpenguinAR.github.io/issues).
 
 ## The page
 Si te gusta leer markdown, este es tu lugar. Por el contrario, acá está la [página](https://silverpenguinar.github.io/) de nuevo, por si la preferís con formato.
