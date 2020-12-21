@@ -1,5 +1,12 @@
 # Ingeniería electrónica
 
+### Resúmenes
+Acá puede haber algún resúmen, pero la mayoría está en grupos de Facebook. Piden ingresar y listo.
+
+Hay un par de grupos de Fb que tienen varios resúmenes e incluso finales de las materias. Recomiendo ir ahí para hablar con estudiantes y que les comenten sus experiencias de rendir una materia.
+
+Luego de analizarlo, parece que Fb es mejor para estas cosas, porque no solamente te deja subir cosas, sino que te deja interactuar con los/las que rindieron y podes hacerle pregunta. Me parece que voy a continuar de otra forma con esta idea, porque sería reinventar la rueda sino.
+
 
 ## Primer año
   - Informatica I
